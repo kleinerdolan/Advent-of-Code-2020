@@ -52,5 +52,3 @@ console.log('FINISHED! TREES: ' + trees);
 
 
 console.log('MULTIPLIED: ' + 77*218*65*82*43)
-
-//npx ts-node src/day
