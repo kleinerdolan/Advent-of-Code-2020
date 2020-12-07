@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0cff13b-ecb8-4660-885a-d8f1c63414db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/files/input6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day6.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/input7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day7.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day4Solution.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +14,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="TypeScript File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -67,6 +66,7 @@
       <workItem from="1607085026982" duration="22750000" />
       <workItem from="1607173428513" duration="6025000" />
       <workItem from="1607250360416" duration="5271000" />
+      <workItem from="1607348198100" duration="21125000" />
     </task>
     <servers />
   </component>
