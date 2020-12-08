@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0cff13b-ecb8-4660-885a-d8f1c63414db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/files/input7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day7.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/input8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day8.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +14,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="TypeScript File" />
         <option value="JavaScript File" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
@@ -40,7 +40,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.tslint" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -67,6 +67,7 @@
       <workItem from="1607173428513" duration="6025000" />
       <workItem from="1607250360416" duration="5271000" />
       <workItem from="1607348198100" duration="21125000" />
+      <workItem from="1607436009896" duration="4161000" />
     </task>
     <servers />
   </component>
@@ -84,5 +85,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
