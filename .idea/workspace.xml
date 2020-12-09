@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0cff13b-ecb8-4660-885a-d8f1c63414db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/files/input9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day9.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="e0cff13b-ecb8-4660-885a-d8f1c63414db" name="Default Changelist" comment="Added solution for challenge 9.">
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +16,7 @@
       <list>
         <option value="JavaScript File" />
         <option value="TypeScript File" />
+        <option value="tsconfig.json" />
       </list>
     </option>
   </component>
@@ -56,6 +56,11 @@
       <recent name="C:\Users\roj44100\Documents\Code Projekte\Advent of Code" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="Typescript" type="NodeJSConfigurationType" path-to-node="node" node-parameters="--require ts-node/register" path-to-js-file="$FilePathRelativeToProjectRoot$" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -72,8 +77,16 @@
       <workItem from="1607250360416" duration="5271000" />
       <workItem from="1607348198100" duration="21125000" />
       <workItem from="1607436009896" duration="4161000" />
-      <workItem from="1607517393510" duration="4085000" />
+      <workItem from="1607517393510" duration="6359000" />
     </task>
+    <task id="LOCAL-00001" summary="Added solution for challenge 9.">
+      <created>1607521749300</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607521749300</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,6 +103,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added solution for challenge 9." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added solution for challenge 9." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
