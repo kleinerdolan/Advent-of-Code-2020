@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0cff13b-ecb8-4660-885a-d8f1c63414db" name="Default Changelist" comment="Added solution for challenge 10.">
-      <change afterPath="$PROJECT_DIR$/files/input11" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/sample11" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day11.ts" afterDir="false" />
+    <list default="true" id="e0cff13b-ecb8-4660-885a-d8f1c63414db" name="Default Changelist" comment="Added solution for challenge 11.">
+      <change afterPath="$PROJECT_DIR$/files/input12" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/sample12" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +46,7 @@
     <property name="node.js.selected.package.standard" value="" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -82,7 +83,9 @@
       <workItem from="1607607115287" duration="11163000" />
       <workItem from="1607629154523" duration="98000" />
       <workItem from="1607678463454" duration="6443000" />
-      <workItem from="1607766088967" duration="10317000" />
+      <workItem from="1607766088967" duration="11272000" />
+      <workItem from="1607853262128" duration="7633000" />
+      <workItem from="1607886957114" duration="2885000" />
     </task>
     <task id="LOCAL-00001" summary="Added solution for challenge 9.">
       <created>1607521749300</created>
@@ -105,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607618267862</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added solution for challenge 11.">
+      <created>1607783196290</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607783196290</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,10 +134,14 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/Advent-of-Code" />
+    </ignored-roots>
     <MESSAGE value="Added solution for challenge 9." />
     <MESSAGE value="Added typescript configuration and lodashPlayground file." />
     <MESSAGE value="Added solution for challenge 10." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added solution for challenge 10." />
+    <MESSAGE value="Added solution for challenge 11." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added solution for challenge 11." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
