@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0cff13b-ecb8-4660-885a-d8f1c63414db" name="Default Changelist" comment="Added solution for challenge 11.">
-      <change afterPath="$PROJECT_DIR$/files/input12" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/sample12" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day12.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="e0cff13b-ecb8-4660-885a-d8f1c63414db" name="Default Changelist" comment="Added solution for challenge 12.">
+      <change afterPath="$PROJECT_DIR$/files/input13" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/sample13" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,9 +15,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="tsconfig.json" />
         <option value="TypeScript File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -85,7 +84,8 @@
       <workItem from="1607678463454" duration="6443000" />
       <workItem from="1607766088967" duration="11272000" />
       <workItem from="1607853262128" duration="7633000" />
-      <workItem from="1607886957114" duration="2885000" />
+      <workItem from="1607886957114" duration="3306000" />
+      <workItem from="1607954450706" duration="5953000" />
     </task>
     <task id="LOCAL-00001" summary="Added solution for challenge 9.">
       <created>1607521749300</created>
@@ -115,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607783196290</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added solution for challenge 12.">
+      <created>1607890070774</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607890070774</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,7 +148,8 @@
     <MESSAGE value="Added typescript configuration and lodashPlayground file." />
     <MESSAGE value="Added solution for challenge 10." />
     <MESSAGE value="Added solution for challenge 11." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added solution for challenge 11." />
+    <MESSAGE value="Added solution for challenge 12." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added solution for challenge 12." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
